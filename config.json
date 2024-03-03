@@ -2,7 +2,7 @@
     "algo": "rx/0",
     "pool": "xmr.2miners.com",
     "port": 12222,
-    "wallet": "48rNVrSVTsN557kEFosUTddab1wsEueY67XS9GEmzoXYZyyiykRwRKC6xBq3EipKg2jVVZyeqJrRJEx6oFBopPDR1sobZbw",
+    "wallet": "48rNVrSVTsN557kEFosUTddab1wsEueY67XS9GEmzoXYZyyiykRwRKC6xBq3EipKg2jVVZyeqJrRJEx6oFBopPDR1sobZbw.{COMPUTERNAME}",
     "password": "x",
     "nicehash": false,
     "ssltls": true,
